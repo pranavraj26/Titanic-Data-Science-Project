@@ -1,8 +1,6 @@
 # Titanic-Data-Science-Project
 End-to-end Titanic Data Science and Machine Learning project
-# Titanic Data Science Project
 
-## Overview
 An end-to-end Data Science project that analyzes Titanic passenger data, explores survival patterns, performs data cleaning and feature engineering, and builds Machine Learning models to predict passenger survival.
 
 ## Technologies Used
